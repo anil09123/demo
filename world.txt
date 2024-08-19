@@ -1,1 +1,10 @@
 Hello World!
+
+
+
+
+
+
+github command
+git init
+git add file
