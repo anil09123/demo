@@ -8,3 +8,7 @@ Hello World!
 github command
 git init
 git add file
+
+***********************
+git push
+git add text
